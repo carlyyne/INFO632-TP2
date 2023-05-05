@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TP2_SYST",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TP2_SYST::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TP2_SYST-Debug-59ed2ad45ecab3eafa98.json",
+					"name" : "TP2_SYST",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/carlynebarrachin/Documents/Polytech/FI3/S6/INFO632-SYST/TP2-SYST/cmake-build-debug",
+		"source" : "/Users/carlynebarrachin/Documents/Polytech/FI3/S6/INFO632-SYST/TP2-SYST"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
